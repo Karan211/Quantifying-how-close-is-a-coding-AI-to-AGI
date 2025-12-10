@@ -1,4 +1,7 @@
-LLM1 result:
+
+Two different LLMs were tested
+
+A LLM1 result:
 1 2 1 8 3 59 1
 new
 33313132
@@ -145,4 +148,17 @@ new
 23221123
 12003221
 0 1 0 0 16.000000
+... infinite loop ...
+
+A LLM2 result:
+1 2 1 8 3 59 1
+new
+33012222
+23131122
+13310321
+12312113
+02232212
+01221111
+13331230
+13113312
 ... infinite loop ...
