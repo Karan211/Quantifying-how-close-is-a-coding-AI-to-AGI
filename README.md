@@ -4,4 +4,5 @@ If two or more AI or/and people are capable to write in given* (quantum) program
 
 A few notes:
 Due to the inevitable leakage of the best AI algorithms into other AI systems, AI intelligence can only be measured for the best algorithms.
+
 The question arises on the admissibility of informing AIs about systematic errors in their algorithms. Because this will add human intelligence to the AI ​​testing results.
