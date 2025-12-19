@@ -8,8 +8,9 @@ A few notes:
 Due to the inevitable leakage of the best AI algorithms into other AI systems, there may be cases when an AI, which itself codes weak algorithms, adopts the best algorithm and demonstrates a high, but false, level of intelligence.
 
 The question arises on the admissibility of informing AIs about systematic errors in their algorithms. Because this will add human intelligence to the AI ​​testing results.<p><br>
-<b>The known best result of intelligence tests of AI-generated code for Prompt2 and example.c:</b><br><br>
-8\*8 4 59 1 2 1000.00 Claude.ai Sonnet 4.5 us 2025-12-13 18:59:26 and infinite loops<p><br>
+<b>The known best results of intelligence tests of AI-generated code for Prompt2 and example.c:</b><br><br>
+8\*8 7 42 5 12 0.2308 free code of Chatgpt.com us 2025-12-18 23:59:00<br><br>
+8\*8 4 59 1&nbsp; 2 1000.00 Claude.ai Sonnet 4.5 us 2025-12-13 18:59:26 and infinite loops<p><br>
 <b>Typical results of intelligence tests of AI-generated code for Prompt2 and example.c</b><br>
 demonstrates that the more complex the tasks, the higher the probability of infinite loops:<br><br>
 8\*8 <b>2</b> 59 1 2 <b>666.667</b> aLLM n/a 2025-12-14<-- without infinite loops<br><br>
